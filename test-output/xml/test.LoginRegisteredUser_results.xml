@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="capstoneProject"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.762">
+    <properties></properties>
+
+
+
+            <testcase
+                name="verifyIncorrectEmailCorrectPass"
+                time="10.762"
+                classname="test.LoginRegisteredUser">
+            </testcase>
+</testsuite>

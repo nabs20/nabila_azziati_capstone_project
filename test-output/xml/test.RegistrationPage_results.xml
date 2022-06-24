@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="capstoneProject"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.477">
+    <properties></properties>
+
+
+
+            <testcase
+                name="openBrowser"
+                time="11.477"
+                classname="test.RegistrationPage">
+            </testcase>
+</testsuite>
